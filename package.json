@@ -1,0 +1,21 @@
+{
+  "name": "dwg-validator-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "cloudconvert": "^2.3.7",
+    "dotenv": "^16.4.5",
+    "dxf-parser": "^1.1.2",
+    "express": "^4.21.1",
+    "form-data": "^4.0.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
